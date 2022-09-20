@@ -1,0 +1,45 @@
+body{
+    background-color: whitesmoke;
+    color: rgb(78, 74, 74);
+}
+.main{
+    margin: 25px 50px;
+}
+#desc{
+    margin-left: 0px;
+    padding-bottom: 2px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+label{
+    margin: 5px 0px;
+}
+.para{
+    margin: 5px 0px;
+}
+span{
+    font-weight: lighter;
+    font-style: italic;
+}
+input[type=radio] {
+    margin: 0px 10px;
+}
+input[type=checkbox] {
+    margin: 0px 10px;
+}
+button{
+    margin-top: 20px;
+}
+.table{
+    margin: 20px 0px;
+}
+.table thead th {
+    vertical-align: middle;
+    text-align: center;
+}
+.table tbody td {
+    vertical-align: middle;
+    text-align: center;
+}
